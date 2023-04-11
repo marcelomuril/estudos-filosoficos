@@ -22,13 +22,13 @@ section {
     font-size: 24px;
 }
 .Antigo1-imagem{
-    width:30%
+    width: 20px;%
 }
 .O-Ignorante-Antigo{
     background-image:(#bbc368,#919653b2 );
 }
   footer 
   { padding: 40px 0;
-    background-color: rgb(213, 192, 107), 193, 106;
+    background-color: #919653b2;
   }  
 
