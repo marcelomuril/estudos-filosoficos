@@ -1,7 +1,7 @@
 *{margin:0;
 padding;0:}
 .cabecalho{
-    background-color: #9a8b46;
+    background-color: #847534;
     color: aliceblue;
     display: flex;
     justify-content: space-around;
@@ -27,5 +27,7 @@ section {
 .O-Ignorante-Antigo{
     background-image:(#bbc368,#919653b2 );
 }
-    
+  footer {
+    background-color: #847534;
+  }  
 
