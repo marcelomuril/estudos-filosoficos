@@ -27,7 +27,8 @@ section {
 .O-Ignorante-Antigo{
     background-image:(#bbc368,#919653b2 );
 }
-  footer {
+  footer 
+  { padding: 40px 0;
     background-color: #847534;
   }  
 
